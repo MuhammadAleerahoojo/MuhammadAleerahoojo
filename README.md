@@ -136,20 +136,6 @@ Turns raw HR data into a dashboard people actually read — attrition trends, de
 ### GitHub, in numbers
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=MuhammadAleerahoojo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAleerahoojo&theme=radical&hide_border=true&background=0d1117"/>
+<img height="160" src="https://streak-stats.demolab.com/?user=MuhammadAleerahoojo&theme=radical&hide_border=true&background=0d1117"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAleerahoojo&theme=redical&hide_border=true&bg_color=0d1117&color=f85d7f&line=f85d7f&point=ffffff" width="95%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-*I'd rather ship a small thing that works than a big thing that demos well.*
-
-![Profile Views](https://komarev.com/ghpvc/?username=MuhammadAleerahoojo&color=0d1117&style=flat-square&label=views)
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAleerahoojo&theme=radical&hide_border=true&bg_color=0d1117&color=f85d7f&line=f85d7f&point=ffffff" width="95%"/>
