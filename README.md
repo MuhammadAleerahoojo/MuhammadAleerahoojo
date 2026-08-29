@@ -62,27 +62,30 @@ ali@karachi:~$ cat currently.txt
 
 **AI / ML**  &nbsp;
 ![PyTorch](https://img.shields.io/badge/-PyTorch-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![LangChain](https://img.shields.io/badge/-LangChain-1a1a2e?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-1a1a2e?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-1a1a2e?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![OpenCV](https://img.shields.io/badge/-OpenCV-1a1a2e?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![scikit--learn](https://img.shields.io/badge/-scikit--learn-1a1a2e?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+
+**Agents · RAG · Tool Calling**  &nbsp;
+![LangChain](https://img.shields.io/badge/-LangChain-1a1a2e?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
+![Function Calling](https://img.shields.io/badge/-Function%20Calling-1a1a2e?style=for-the-badge)
+![RAG](https://img.shields.io/badge/-RAG-1a1a2e?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/-FAISS-1a1a2e?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-1a1a2e?style=for-the-badge)
+![Groq](https://img.shields.io/badge/-Groq-1a1a2e?style=for-the-badge)
 
 **Backend / Data**  &nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Supabase](https://img.shields.io/badge/-Supabase-1a1a2e?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-1a1a2e?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/-Pydantic-1a1a2e?style=for-the-badge&logo=pydantic&logoColor=E92063)
 
 **Frontend / Tools**  &nbsp;
 ![React](https://img.shields.io/badge/-React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/-Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/-Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05032)
-
-</div>
-
-<br>
-
-<div align="center">
-
-### Selected Work
+![Git](https://img.shields.io/badge/-Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05032)### Selected Work
 
 </div>
 
