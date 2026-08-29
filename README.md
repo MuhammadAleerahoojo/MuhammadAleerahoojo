@@ -85,7 +85,10 @@ ali@karachi:~$ cat currently.txt
 **Frontend / Tools**  &nbsp;
 ![React](https://img.shields.io/badge/-React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/-Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/-Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05032)### Selected Work
+![Git](https://img.shields.io/badge/-Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05032)
+
+
+### Selected Work
 
 </div>
 
