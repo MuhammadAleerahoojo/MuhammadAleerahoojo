@@ -1,14 +1,10 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=MUHAMMAD%20ALI&fontSize=48&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=B.S.+Computer+Science+·+Graduate+2026&descAlignY=68&descSize=18&descColor=b8b8ff" width="100%"/>
-
 </div>
 
 <br>
 
-<table align="center">
-<tr>
-<td width="55%" valign="top">
+<img align="right" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```bash
 ali@karachi:~$ whoami
@@ -26,23 +22,7 @@ which framework built it.
 ```bash
 ali@karachi:~$ cat currently.txt
 ```
-```
-> Shipping Dr Xora — an AI-assisted
-  medical imaging platform (X-ray/CT)
-> Open to AI/ML Developer roles
-  from December 2026
-```
 
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="290"/>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin.com/in/muhammad--ali--rahoojo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ali-rahoojo)
 [![Gmail](https://img.shields.io/badge/muhammadaleerahoojo@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadaleerahoojo@gmail.com)
